@@ -13,5 +13,5 @@ Repeate it for more than one time to remove MS store
 - Copy/Paste the following to reinstall minimalistic MS Store
 
 ```
-Get-AppXPackage | Remove-AppxPackage
+Get-AppxPackage -allusers Microsoft.WindowsStore | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register "$($_.InstallLocation)\AppXManifest.xml"}
 ```
