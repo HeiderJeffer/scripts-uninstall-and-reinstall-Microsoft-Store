@@ -1,5 +1,5 @@
-# scripts-uninstall-and-reinstall-windows-store
-I create scripts uninstall and reinstall windows store  to make MS store minimalistic and remove all unwanted MS apps
+# Scripts to uninstall and reinstall Microsoft Store
+I create scripts uninstall and reinstall  Microsoft Store to make MS store minimalistic and remove all unwanted MS apps, and only install the apps that I need.
 # How it is work?
 - Simply open Powershell as admin
 - To uninstall MS Store, Copy paste the following:
