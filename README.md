@@ -1,4 +1,12 @@
 # Scripts to uninstall and reinstall Microsoft Store
+
+
+<body>
+<img src = "https://github-vistors-counter.onrender.com/github?username=https://github.com/HeiderJeffer/scripts-uninstall-and-reinstall-Microsoft-Store/" alt = "Visitors-Counter"/>
+</body>
+
+
+
 I create scripts uninstall and reinstall  Microsoft Store to make MS store minimalistic and remove all unwanted MS apps, and only install the apps that I need.
 # How it is work?
 - Simply open Powershell as admin
